@@ -21,3 +21,17 @@ mobile-first friendly as always. <img width="1488" alt="187969775-dbc1abc7-3594-
 
 #### In Postman API we created our collections for MongoDB with help from Mongoosejs -- documents, Create(POST), Read(GET), Update(UPDATE), Delete(DELETE) operations. 
 <img width="1405" alt="Screen Shot 2022-09-12 at 1 14 56 AM" src="https://user-images.githubusercontent.com/100849803/189605205-cfdd41da-e2b6-473f-ae4d-41fca6aa7f43.png">
+
+#### Dotenv -- a library we used to save secret keys and passcodes
+
+#### Nodemon helped with tracking changes during server-side development
+
+#### cryptojs for protecting our sensitive data -- 
+
+#### Redux implemented for login process, to fetch products and add them to our cart immediately -- toolkit updates
+
+
+#### Stripejs api for payment method -- funds shows in account right away 
+
+
+![Screen Shot 2022-09-11 at 4 16 32 PM](https://user-images.githubusercontent.com/100849803/189606790-dbc5f730-f6f3-4b9b-8497-5c4f80286639.png)
