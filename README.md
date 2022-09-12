@@ -1,5 +1,7 @@
 # This is a fullstack e-commerce web application implementing stripe payment method -- Reactjs, Expressjs, Nodejs and MongoDB
 
+## install node in your local environment -- run npm start on API side -- backend is running localhost:5000 -- npm start on client-side -- react project is running on localhost:3000
+
 ## Project logo, clear description, screenshot, step-by-step installing instructions
 
 ### NPM packages included 
