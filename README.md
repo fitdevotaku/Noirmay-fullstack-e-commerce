@@ -43,7 +43,7 @@ mobile-first friendly as always. <img width="1488" alt="187969775-dbc1abc7-3594-
 #### Redux implemented for login process, to fetch products and add them to our cart immediately -- toolkit updates
 
 
-#### Stripejs api for payment method -- funds shows in account right away 
+#### Stripejs api for payment method -- payments shows in account right away 
 
 
 ![Screen Shot 2022-09-11 at 4 16 32 PM](https://user-images.githubusercontent.com/100849803/189606790-dbc5f730-f6f3-4b9b-8497-5c4f80286639.png)
