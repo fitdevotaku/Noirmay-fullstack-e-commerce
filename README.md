@@ -5,10 +5,19 @@
 ### NPM packages included 
 
 #### For sharp designs, Npm styled components and Npm material ui integrated.
-mobile-first friendly as always. 
+mobile-first friendly as always. <img width="1488" alt="187969775-dbc1abc7-3594-4b4a-9c65-967e2f824377" src="https://user-images.githubusercontent.com/100849803/189605332-10c0fa16-0eda-4744-ab38-3e84456079f2.png">
+
+![Screen Shot 2022-09-11 at 8 13 19 PM](https://user-images.githubusercontent.com/100849803/189605373-68d04552-e305-45d8-b122-3d991f23bf18.png)
+
+![Screen Shot 2022-09-11 at 8 13 30 PM](https://user-images.githubusercontent.com/100849803/189605400-25a64038-25c2-4162-90e0-e35014069e22.png)
+
+
+![187971858-8734478c-f2bc-45e2-bf68-087ba22268cb](https://user-images.githubusercontent.com/100849803/189605430-2e4318e5-2ea7-4b27-ae68-7379fdd1612d.png)
+
 
 #### Middleware authentication secuirty, implementing JSON web token to verify user.
 
 #### REST Api on our server
 
-
+#### In Postman API we created our collections for MongoDB with help from Mongoosejs -- documents, Create(POST), Read(GET), Update(UPDATE), Delete(DELETE) operations. 
+<img width="1405" alt="Screen Shot 2022-09-12 at 1 14 56 AM" src="https://user-images.githubusercontent.com/100849803/189605205-cfdd41da-e2b6-473f-ae4d-41fca6aa7f43.png">
