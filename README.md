@@ -17,6 +17,13 @@ mobile-first friendly as always. <img width="1488" alt="187969775-dbc1abc7-3594-
 ![187971858-8734478c-f2bc-45e2-bf68-087ba22268cb](https://user-images.githubusercontent.com/100849803/189605430-2e4318e5-2ea7-4b27-ae68-7379fdd1612d.png)
 
 
+#### Login and Register routes
+
+![Screen Shot 2022-09-12 at 1 47 35 AM](https://user-images.githubusercontent.com/100849803/189611798-65cac583-b71a-4504-8194-725ca2ca59ba.png)
+
+![Screen Shot 2022-09-12 at 1 47 21 AM](https://user-images.githubusercontent.com/100849803/189611814-da6caabc-7057-4b05-a989-63e7536b1183.png)
+
+
 #### Middleware authentication secuirty, implementing JSON web token to verify user.
 
 #### REST Api on our server
